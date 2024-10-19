@@ -1,0 +1,17 @@
+{
+  "name": "api-automation-playwright-ds-b6",
+  "version": "1.0.0",
+  "description": "Tugas Sesi 7 Digital Skola - API Automation dengan playwright dan ajv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.48.1",
+    "ajv": "^8.17.1",
+    "playwright": "^1.48.1"
+  }
+}
